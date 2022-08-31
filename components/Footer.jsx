@@ -1,8 +1,8 @@
 
-import {UilFacebook, UilGithub, UilIstagram} from '@iconscout/react-unicons'
+import { UilFacebook, UilGithub, UilIstagram } from '@iconscout/react-unicons'
 import css from '../styles/Footer.module.css'
 
-export default function Footer( ) {
+export default function Footer() {
     return (
         <div className={css.container}>
             <span>ALL RIGHT RESERVED</span>
